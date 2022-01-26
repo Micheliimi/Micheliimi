@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou em busca de oportunidades. 
-- 🌱 Estou cursando Tecnólogo em Análise e Desenvolvimento de Software.
+- ✅ Estou cursando Desenvolvimento Web na Trybe.
 - 📫 Contate-me no email: michele.gusmao7@gmail.com.
 - 😄 Pronouns: ela/dela.
 
