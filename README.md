@@ -1,14 +1,11 @@
-### Olá! Eu sou a Michele Gusmão 👋
+### Hi! I'm Michele Gusmao 👋
 
-
-
-- 🔭 Estou em busca de oportunidades. 
-- ✅ Estou cursando Desenvolvimento Web na Trybe.
-- 📫 Contate-me no email: michele.gusmao7@gmail.com.
+- 🔭 I am looking for opportunities. 
+- ✅ I'm studying Web Development at Trybe.
+- 📫 Email: michele.gusmao7@gmail.com.
 - 😄 Pronouns: ela/dela.
-<p align="left">
-<a href="https://linkedin.com/in/michelegusmao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelegusmao" height="30" width="40" /></a>
-</p>
+
+https://linkedin.com/in/michelegusmao
 
 
 <div align="center">
